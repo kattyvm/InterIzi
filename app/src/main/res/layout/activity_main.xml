@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="#fff"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/textViewMainTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bungee"
+        android:text="Bienvenido a InterIzi"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textViewRegistroDescrip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Somos una plataforma con la que podrás buscar los lugares más cercanos que proveen Internet y puedas hacer uso de este GRATIS ¡Así que no esperes más e inicia sesión!"
+        android:textSize="18sp"
+        android:fontFamily="@font/antic"/>
+
+    <Button
+        android:id="@+id/buttonIniciarSesion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="5dp"
+        android:background="#000"
+        android:onClick="login"
+        android:text="Inicia Sesión"
+        android:textColor="#fff" />
+
+
+</LinearLayout>

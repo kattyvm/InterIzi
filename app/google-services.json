@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "150433418399",
+    "firebase_url": "https://interizi-29000-default-rtdb.firebaseio.com",
+    "project_id": "interizi-29000",
+    "storage_bucket": "interizi-29000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150433418399:android:e67fcdfb394a1c4915a6aa",
+        "android_client_info": {
+          "package_name": "moviles.apps.interizi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150433418399-1q3o690urjd7ou46nucldpspup108g59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "moviles.apps.interizi",
+            "certificate_hash": "e08e1cae6167ce12cc396ea027fdd696edead383"
+          }
+        },
+        {
+          "client_id": "150433418399-mg4vkrgcceceipn5u66vkpt33cf4bfb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA15kJqmnWjZAfxrp-mbAVmvsyoLLF1m4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150433418399-mg4vkrgcceceipn5u66vkpt33cf4bfb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
